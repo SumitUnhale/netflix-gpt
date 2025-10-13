@@ -1,8 +1,9 @@
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="App font-bold text-lg">
-      Hello Namsate react course
+    <div>
+      <Body />
     </div>
   );
 }
